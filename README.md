@@ -1,10 +1,10 @@
 <h1>Hi, I'm Jade, an <a href="https://www.linkedin.com/in/jade-da-silva-8b43566a/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JadedaSilva/osticket-prereqs)
