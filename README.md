@@ -16,7 +16,7 @@
 - <b>Learning in Progress<b>
   - [Pentesting](https://certifications.tcm-sec.com/pnpt/)
   - [Microsoft](https://www.microsoft.com/en-za/security/business/siem-and-xdr/microsoft-defender-office-365)
-  - [Python] 
+  - [Python(need to revist)](https://github.com/JadedaSilva/IT-Automation-with-Google) 
 
 <h2>🤳Connect with me:</h2>
 
