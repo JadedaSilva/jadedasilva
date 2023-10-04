@@ -13,7 +13,14 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JadedaSilva/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JadedaSilva/azure-network-protocols)
-- <b>Learning in Progress</b>
+
+<h2>🔒 Ethical Hacking</h2>
+
+- [PJPT/PEH](https://github.com/JadedaSilva/PEH)
+- PNPT (Learning in progress)
+
+- <h2>Learning in Progress</h2>
+
   - [Pentesting](https://certifications.tcm-sec.com/pnpt/)
   - [Microsoft](https://www.microsoft.com/en-za/security/business/siem-and-xdr/microsoft-defender-office-365)
   - [Python(need to revist)](https://github.com/JadedaSilva/IT-Automation-with-Google) 
