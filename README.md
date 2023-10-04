@@ -1,5 +1,5 @@
-<h1><span style="color: blue;">WhoAmI</span> Hi, I'm <span style="color: red;">Jade</span>, an <a href="https://www.linkedin.com/in/jade-da-silva-8b43566a/">IT Security Technician</a>☺</h1>
-
+<h1>WhoAmI</h1>
+<h1> Hi, I'm an <a href="https://www.linkedin.com/in/jade-da-silva-8b43566a/">IT Security Professional</a>☺</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
